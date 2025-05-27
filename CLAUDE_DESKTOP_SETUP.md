@@ -12,7 +12,7 @@ If you have the MCP CLI installed:
 
 ```bash
 # Navigate to your project directory
-cd todo-mcp-server
+cd ToDo-MCP-Server
 
 # Install the server to Claude Desktop
 mcp install server_stdio.py
