@@ -122,6 +122,24 @@ Quick overview:
 - Enables natural language todo management through Claude
 - Requires configuration in Claude Desktop settings
 
+#### See it in action:
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/sample_claude_desktop_1.png" width="650" alt="Creating Todo"/>
+      <br>
+      <em>Creating todos naturally</em>
+    </td>
+    <td align="center">
+      <img src="./images/sample_claude_desktop_2.png" width="650" alt="Managing Tasks"/>
+      <br>
+      <em>Managing your tasks</em>
+    </td>
+  </tr>
+</table>
+
 [**→ Full Claude Desktop Setup Instructions**](./CLAUDE_DESKTOP_SETUP.md)
 
 ### Option 3: Docker
