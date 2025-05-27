@@ -72,7 +72,7 @@ This server supports two transport methods:
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/enesbasbug/ToDo-MCP-Server.git
-cd todo-mcp-server
+cd ToDo-MCP-Server
 ```
 
 2. **Create a virtual environment (recommended):**
